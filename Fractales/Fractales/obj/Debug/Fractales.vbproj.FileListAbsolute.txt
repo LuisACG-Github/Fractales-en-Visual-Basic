@@ -1,0 +1,28 @@
+c:\users\luisa\documents\visual studio 2015\Projects\Fractales\Fractales\obj\Debug\Fractales.vbprojResolveAssemblyReference.cache
+c:\users\luisa\documents\visual studio 2015\Projects\Fractales\Fractales\obj\Debug\Fractales.Resources.resources
+c:\users\luisa\documents\visual studio 2015\Projects\Fractales\Fractales\obj\Debug\Fractales.vbproj.GenerateResource.Cache
+c:\users\luisa\documents\visual studio 2015\Projects\Fractales\Fractales\obj\Debug\Fractales.xml
+c:\users\luisa\documents\visual studio 2015\Projects\Fractales\Fractales\bin\Debug\Fractales.exe
+c:\users\luisa\documents\visual studio 2015\Projects\Fractales\Fractales\bin\Debug\Fractales.pdb
+c:\users\luisa\documents\visual studio 2015\Projects\Fractales\Fractales\bin\Debug\Fractales.xml
+c:\users\luisa\documents\visual studio 2015\Projects\Fractales\Fractales\obj\Debug\Fractales.Form1.resources
+c:\users\luisa\documents\visual studio 2015\Projects\Fractales\Fractales\obj\Debug\Fractales.exe
+c:\users\luisa\documents\visual studio 2015\Projects\Fractales\Fractales\obj\Debug\Fractales.pdb
+C:\Users\luisa\Documents\Visual Studio 2015\Projects\Fractales\Fractales\bin\Debug\Fractales.exe.manifest
+C:\Users\luisa\Documents\Visual Studio 2015\Projects\Fractales\Fractales\bin\Debug\Fractales.application
+C:\Users\luisa\Documents\Visual Studio 2015\Projects\Fractales\Fractales\obj\Debug\Fractales.exe.manifest
+C:\Users\luisa\Documents\Visual Studio 2015\Projects\Fractales\Fractales\obj\Debug\Fractales.application
+C:\Users\luisa\Desktop\Fractales\Fractales\obj\Debug\Fractales.exe
+C:\Users\luisa\Desktop\Fractales\Fractales\obj\Debug\Fractales.xml
+C:\Users\luisa\Desktop\Fractales\Fractales\obj\Debug\Fractales.pdb
+C:\Users\luisa\Desktop\Fractales\Fractales\bin\Debug\Fractales.exe.manifest
+C:\Users\luisa\Desktop\Fractales\Fractales\bin\Debug\Fractales.application
+C:\Users\luisa\Desktop\Fractales\Fractales\bin\Debug\Fractales.exe
+C:\Users\luisa\Desktop\Fractales\Fractales\bin\Debug\Fractales.pdb
+C:\Users\luisa\Desktop\Fractales\Fractales\bin\Debug\Fractales.xml
+C:\Users\luisa\Desktop\Fractales\Fractales\obj\Debug\Fractales.vbprojResolveAssemblyReference.cache
+C:\Users\luisa\Desktop\Fractales\Fractales\obj\Debug\Fractales.Form1.resources
+C:\Users\luisa\Desktop\Fractales\Fractales\obj\Debug\Fractales.Resources.resources
+C:\Users\luisa\Desktop\Fractales\Fractales\obj\Debug\Fractales.vbproj.GenerateResource.Cache
+C:\Users\luisa\Desktop\Fractales\Fractales\obj\Debug\Fractales.exe.manifest
+C:\Users\luisa\Desktop\Fractales\Fractales\obj\Debug\Fractales.application
